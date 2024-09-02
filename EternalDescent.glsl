@@ -1,4 +1,4 @@
-// Inspired by Starry planes - Created by mrange
+// Inspired by Starry planes - mrange
 #define TIME        iTime
 #define RESOLUTION  iResolution
 #define ROTATE(angle) mat2(cos(angle), sin(angle), -sin(angle), cos(angle))
