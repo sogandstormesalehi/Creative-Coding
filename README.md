@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/46e3b153-6329-4ab2-8f76-5b5359a5c36b
 # Creative Coding Projects
 
 ## Stellar Spirals
@@ -9,23 +7,29 @@ This shader [code](https://github.com/sogandstormesalehi/graphics/blob/main/Stel
 ![Screenshot 2024-08-26 210836](https://github.com/user-attachments/assets/a51d4764-5e8d-4e63-89e6-25359241acfb)
 
 
-<video src="https://github.com/user-attachments/assets/cdf13eb3-6ea8-4e20-bd12-fa221905deb3" controls width="640" height="360">
-</video>
+https://github.com/user-attachments/assets/46e3b153-6329-4ab2-8f76-5b5359a5c36b
 
 ## Eternal Descent
 
 
 This is a [shader program](https://github.com/sogandstormesalehi/graphics/blob/main/EternalDescent.glsl) that calculates and renders a dynamic scene, featuring a rotating figurine on a background with glowing, neon-like effects. I use a combination of mathematical functions and matrix transformations to generate and animate shapes in 3D space, apply color adjustments with a custom approximation function, and implement blending techniques for layering visuals. The core functions handle the creation of offset paths, color computation, and a rotating figurine, ensuring the scene is dynamically evolving.
 
+https://github.com/user-attachments/assets/5ac768e8-d2fc-4e7e-a496-e2f75a9b48cf
 
 
 ## Trapped In a Nightmare
 
 [Here](https://github.com/sogandstormesalehi/Creative-Coding/blob/main/SuffocationInTheAbyss.glsl) I create a 3D scene where you can't shake the feeling of being slowly enveloped by the environment. The map function forms a spiraling structure that seems to close in on you as time passes, creating a subtle but persistent sense of confinement. As the `mainImage` function traces the rays through this space, the camera's movement is subtly restricted, with the collision detection ensuring that you're always kept close to the spiraling walls. The lighting, rather than illuminating, casts deep shadows that obscure your path, making the space feel tighter and more disorienting. The color variations shift in a way that feels unsettling, as if the environment itself is subtly shifting against you.
 
+
+https://github.com/user-attachments/assets/f7c39660-80be-4d66-9263-6561d1e89d30
+
+
+
 ## Sky Wanderer
 
 In this [code](https://github.com/sogandstormesalehi/graphics/blob/main/SkyWanderer.glsl) I create a procedural animation of a small, stylized figure moving within a cloudy sky background. The `noise` and `smoothNoise` functions generate smooth, continuous 2D noise, which is then used in the `clouds` function to simulate dynamic, billowing clouds that shift over time. The main function, `mainImage`, constructs the scene by first rendering the background clouds, which are influenced by time to create a sense of movement. The foreground figure, comprised of a head, body, arms, and legs, is positioned and animated based on the user's mouse input, with default behavior if no input is detected. The figure's limbs subtly animate to give the impression of a simple, lively character floating in the sky, and the final image is a blend of this character and the cloudy background. (p.s. this was so fun to create. I really like the absurd concept of a small endless runner jumping towards the void).
+
 
 ## Mandelbrot
 
