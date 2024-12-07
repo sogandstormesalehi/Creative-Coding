@@ -1,12 +1,23 @@
+
+https://github.com/user-attachments/assets/46e3b153-6329-4ab2-8f76-5b5359a5c36b
 # Creative Coding Projects
 
 ## Stellar Spirals
 
 This shader [code](https://github.com/sogandstormesalehi/graphics/blob/main/StellarSpirals.glsl) generates a dynamic, animated visual effect by simulating a set of spiraling boxes that twist and move over time. I define a series of functions to create and manipulate star-like shapes, which are then arranged in a box pattern. The shapes are distorted by rotation matrices and scaled dynamically based on time, producing a twisting, pulsing motion. The main loop in the `mainImage` function traces rays through the scene, accumulating color based on the distance to the closest shape in the scene. The result is an evolving, vibrant pattern that combines geometric transformations with sinusoidal animations, creating a hallucinational display. (p.s. gotta love giving myself a bad headache)
 
+![Screenshot 2024-08-26 210836](https://github.com/user-attachments/assets/a51d4764-5e8d-4e63-89e6-25359241acfb)
+
+
+<video src="https://github.com/user-attachments/assets/cdf13eb3-6ea8-4e20-bd12-fa221905deb3" controls width="640" height="360">
+</video>
+
 ## Eternal Descent
 
+
 This is a [shader program](https://github.com/sogandstormesalehi/graphics/blob/main/EternalDescent.glsl) that calculates and renders a dynamic scene, featuring a rotating figurine on a background with glowing, neon-like effects. I use a combination of mathematical functions and matrix transformations to generate and animate shapes in 3D space, apply color adjustments with a custom approximation function, and implement blending techniques for layering visuals. The core functions handle the creation of offset paths, color computation, and a rotating figurine, ensuring the scene is dynamically evolving.
+
+
 
 ## Trapped In a Nightmare
 
